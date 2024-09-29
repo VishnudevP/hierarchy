@@ -19,7 +19,7 @@ This project is an **interactive organization hierarchy visualization** built wi
 ## Figma Design
 
 This project was built based on the following design created in Figma:  
-[Agentnoon Assessment - Figma Design](https://www.figma.com/design/H3ZQmk2EEBLTmtTcpAgHIo/Agentnoon-Assessment?node-id=23-3131&t=3B6TIz6BEOk3brTd-1)
+[Agentnoon Assessment - Figma Design](https://www.figma.com/design/H3ZQmk2EEBLTmtTcpAgHIo/Agentnoon-Assessment?node-id=0-1&t=pIKPX6u1iLeArdcX-1)
 
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/448a717e-08d1-4724-a195-e2be74a6c5da">
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/59ff26e5-3f9a-4c94-bced-a9200fad5653">
