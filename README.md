@@ -36,4 +36,27 @@ This project was built based on the following design created in Figma:
 - **Figma:** For UI/UX design reference.
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/4000c868-caee-4d09-ab9f-a00bb7d526ac">
 <img width="1401" alt="image" src="https://github.com/user-attachments/assets/1bc03ad5-a236-475f-b77c-1b904f8677db">
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d5ae26d5-c2fb-4a69-8b3b-99c5268b9861">
+
+## Installation and Setup
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+2. Navigate to the project directory:
+```bash
+cd your-repo-name
+```
+3. Install the dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm run dev
+```
+5. Open your browser and visit http://localhost:5173 to view the app.
+
