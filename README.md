@@ -21,10 +21,19 @@ This project is an **interactive organization hierarchy visualization** built wi
 This project was built based on the following design created in Figma:  
 [Agentnoon Assessment - Figma Design](https://www.figma.com/design/H3ZQmk2EEBLTmtTcpAgHIo/Agentnoon-Assessment?node-id=23-3131&t=3B6TIz6BEOk3brTd-1)
 
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/448a717e-08d1-4724-a195-e2be74a6c5da">
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/59ff26e5-3f9a-4c94-bced-a9200fad5653">
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/acf912ae-aa13-4a88-a3c2-607120f1e575">
+
+
+
+
 ## Technologies Used
 
 - **Vue.js:** Frontend framework used for the project.
 - **PapaParse:** For parsing CSV data into the app.
 - **CSS3/Flexbox:** For layout and styling.
 - **Figma:** For UI/UX design reference.
-
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4000c868-caee-4d09-ab9f-a00bb7d526ac">
+<img width="1401" alt="image" src="https://github.com/user-attachments/assets/1bc03ad5-a236-475f-b77c-1b904f8677db">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d5ae26d5-c2fb-4a69-8b3b-99c5268b9861">
